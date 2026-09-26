@@ -1,0 +1,8 @@
+{
+  "name": "live Ai app by nihtin",
+  "description": "Real-time verified news platform delivering authentic live headlines, multi-source cross-verification, and strict factual AI summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
